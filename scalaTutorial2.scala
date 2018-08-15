@@ -1,4 +1,4 @@
-object Nugz{
+object App{
     def main(){
 
         var listsz = List(4, 2, 0, 6, 9)
